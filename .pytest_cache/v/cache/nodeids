@@ -1,0 +1,8 @@
+[
+  "scripts/test01_mp_login.py::TestMpLogin::()::test_mp_login[13812345678-246810-13812345678]",
+  "scripts/test02_mp_article.py::TestMpArticle::()::test_mp_article[test002-bj002-\\u4eca\\u5929\\u7096\\u706b\\u9505!-\\u65b0\\u589e\\u6587\\u7ae0\\u6210\\u529f-\\u6570\\u636e\\u5e93]",
+  "scripts/test03_mis_login.py::TestMisLogin::()::test_mis_login[testid-testpwd123-\\u7ba1\\u7406\\u5458]",
+  "scripts/test04_mis_audit.py::TestMisAudit::()::test_mis_audit",
+  "scripts/test05_app_login.py::TestAppLogin::()::test_app_login[13812345678-246810]",
+  "scripts/test06_app_article.py::TestAppArticle::()::test_app_article[python-Python]"
+]

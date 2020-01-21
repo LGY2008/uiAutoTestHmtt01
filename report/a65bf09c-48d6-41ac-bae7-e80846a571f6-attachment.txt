@@ -1,0 +1,11 @@
+base.py                     13 INFO     正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="3644ac26224c24108f07134b867c2b65")>
+page_mis_login.py           38 INFO     正在调用后台管理系统成功登录依赖方法，用户名：testid 密码：testpwd123
+base.py                     25 INFO     正在查找元素：('css selector', "[name='username']")
+base.py                     39 INFO     正在对：('css selector', "[name='username']") 元素执行清空操作！
+base.py                     42 INFO     正在对：('css selector', "[name='username']") 元素执行输入:testid 操作！
+base.py                     25 INFO     正在查找元素：('css selector', "[name='password']")
+base.py                     39 INFO     正在对：('css selector', "[name='password']") 元素执行清空操作！
+base.py                     42 INFO     正在对：('css selector', "[name='password']") 元素执行输入:testpwd123 操作！
+base.py                     50 INFO     正在对：('css selector', '#inp1') 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('css selector', '#inp1')
+base.py                     13 INFO     正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="3644ac26224c24108f07134b867c2b65")>

@@ -1,0 +1,11 @@
+base.py                     13 INFO     正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="7cc71b2b-9082-44c1-a6d1-83406d233db4")>
+page_app_login.py           37 INFO     正在调用app应用登录业务方法 手机号:13812345678 验证码: 246810
+base.py                     25 INFO     正在查找元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+base.py                     39 INFO     正在对：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行清空操作！
+base.py                     42 INFO     正在对：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素执行输入:13812345678 操作！
+base.py                     25 INFO     正在查找元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+base.py                     39 INFO     正在对：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行清空操作！
+base.py                     42 INFO     正在对：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素执行输入:246810 操作！
+base.py                     50 INFO     正在对：('xpath', "//*[@text='登录' and @class='android.widget.Button']") 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('xpath', "//*[@text='登录' and @class='android.widget.Button']")
+base.py                     13 INFO     正在初始化driver: <appium.webdriver.webdriver.WebDriver (session="7cc71b2b-9082-44c1-a6d1-83406d233db4")>

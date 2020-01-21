@@ -1,0 +1,21 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1579595397136" stop="1579595413361">
+  <name>scripts.test04_mis_audit</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1579595397136" status="passed" stop="1579595413361">
+      <name>TestMisAudit.test_mis_audit</name>
+      <attachments>
+        <attachment source="a65bf09c-48d6-41ac-bae7-e80846a571f6-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="f82d690f-843c-4e4e-9383-cfd53d3a8583-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6119-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

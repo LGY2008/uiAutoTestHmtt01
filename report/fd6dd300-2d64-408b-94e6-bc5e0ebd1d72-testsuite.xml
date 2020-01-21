@@ -1,0 +1,21 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1579595413436" stop="1579595435679">
+  <name>scripts.test05_app_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1579595413436" status="passed" stop="1579595435679">
+      <name>TestAppLogin.test_app_login[13812345678-246810]</name>
+      <attachments>
+        <attachment source="842838f5-6387-4c5b-b7e4-b712f0ebd5c1-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="0361ce23-bbda-4ba1-9a2d-c6634ae4c49e-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6119-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

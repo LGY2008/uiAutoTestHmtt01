@@ -1,0 +1,4 @@
+mis_login001:
+  username: "testid"
+  pwd: "testpwd123"
+  expect: "管理员"

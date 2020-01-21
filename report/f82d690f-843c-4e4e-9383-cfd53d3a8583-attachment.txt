@@ -1,0 +1,35 @@
+page_mis_audit.py           63 INFO     正在调用审核文章业务方法，title: test002-bj002 channel：数据库
+base.py                     50 INFO     正在对：('xpath', "//*[text()='信息管理']/.") 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('xpath', "//*[text()='信息管理']/.")
+base.py                     50 INFO     正在对：('xpath', "//*[text()='内容审核']/.") 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('xpath', "//*[text()='内容审核']/.")
+base.py                     25 INFO     正在查找元素：('css selector', "[placeholder='请输入: 文章名称']")
+base.py                     39 INFO     正在对：('css selector', "[placeholder='请输入: 文章名称']") 元素执行清空操作！
+base.py                     42 INFO     正在对：('css selector', "[placeholder='请输入: 文章名称']") 元素执行输入:test002-bj002 操作！
+base.py                     25 INFO     正在查找元素：('css selector', "[placeholder='请输入: 频道']")
+base.py                     39 INFO     正在对：('css selector', "[placeholder='请输入: 频道']") 元素执行清空操作！
+base.py                     42 INFO     正在对：('css selector', "[placeholder='请输入: 频道']") 元素执行输入:数据库 操作！
+web_base.py                 16 INFO     正在调用web专属点击封装方法
+base.py                     50 INFO     正在对：('css selector', "[placeholder='请选择状态']") 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('css selector', "[placeholder='请选择状态']")
+base.py                     50 INFO     正在对：('xpath', "//*[text()='待审核']") 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('xpath', "//*[text()='待审核']")
+base.py                     50 INFO     正在对：('css selector', '.find') 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('css selector', '.find')
+base.py                     25 INFO     正在查找元素：('css selector', '.cell>span')
+base.py                     60 INFO     正在对：('css selector', '.cell>span') 元素获取文本操作！，获取的文本值：1219536482226667520
+base.py                     25 INFO     正在查找元素：('css selector', '.cell>span')
+base.py                     50 INFO     正在对：('xpath', "//*[text()='通过']/..") 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('xpath', "//*[text()='通过']/..")
+base.py                     50 INFO     正在对：('css selector', '.el-button--primary') 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('css selector', '.el-button--primary')
+page_mis_audit.py           77 INFO     正在调用断言业务操作方法
+web_base.py                 16 INFO     正在调用web专属点击封装方法
+base.py                     50 INFO     正在对：('css selector', "[placeholder='请选择状态']") 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('css selector', "[placeholder='请选择状态']")
+base.py                     50 INFO     正在对：('xpath', "//*[text()='审核通过']") 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('xpath', "//*[text()='审核通过']")
+base.py                     50 INFO     正在对：('css selector', '.find') 元素执行点击操作！
+base.py                     25 INFO     正在查找元素：('css selector', '.find')
+web_base.py                 28 INFO     正在调用查找页面是否存在指定元素：1219536482226667520 方法
+base.py                     25 INFO     正在查找元素：('xpath', "//*[text()='1219536482226667520']")

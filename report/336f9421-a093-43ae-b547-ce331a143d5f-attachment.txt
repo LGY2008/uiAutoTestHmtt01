@@ -1,0 +1,8 @@
+page_app_article.py         21 INFO     正在调用查询文章业务方法 文章频道：python 文章title:Python
+app_base.py                 29 INFO     正在调用从右向左滑动屏幕方法
+base.py                     25 INFO     正在查找元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']")
+base.py                     25 INFO     正在查找元素：('xpath', "//android.widget.HorizontalScrollView/*[contains(@text,'python')]")
+base.py                     25 INFO     正在查找元素：('xpath', "//android.widget.HorizontalScrollView/*[contains(@text,'python')]")
+app_base.py                 77 INFO     正在调用从下向上滑动屏幕方法
+base.py                     25 INFO     正在查找元素：('xpath', "//*[@index='2' and @bounds='[0,520][1440,2288]']")
+base.py                     25 INFO     正在查找元素：('xpath', "//*[@bounds='[0,520][1440,2288]']//*[contains(@text,'Python')]")
